@@ -1,6 +1,5 @@
 fastapi==0.110.0
 uvicorn==0.28.0
 python-dotenv==1.0.1
-mistralai>=1.10.0
-pydantic==2.5.3
+mistralai>=1.10.0git add requirements.txt
 
